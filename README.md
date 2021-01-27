@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/Huey97/Huey97/blob/main/icons/header_white_.png)
 
 - 🔭 I’m currently working on blockchain.
 - 🌱 Currently learning cryptography.
